@@ -1,30 +1,105 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
-  <title>Can Selçuk Ücel</title>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Can  — Portfolio</title>
+  <meta name="description" content="Ege Mert OK | Hisar Schools 10th grade — AP CS, Python, web and design projects." />
+  <style>
+    :root{
+      --bg:#ffffff; --text:#121212; --link:#2563eb; --muted:#6b7280; --border:#e5e7eb;
+      --card:#fafafa;
+    }
+    *{box-sizing:border-box}
+    body{margin:0;font-family:Arial,Helvetica,sans-serif;background:var(--bg);color:var(--text);line-height:1.55}
+    header,main,footer{max-width:920px;margin:0 auto;padding:14px 18px}
+    header{border-bottom:1px solid var(--border);display:flex;align-items:center;justify-content:space-between;gap:12px}
+    nav a{margin-right:12px;text-decoration:none;color:var(--link);font-weight:bold}
+    nav a[aria-current="page"]{text-decoration:underline}
+    h1,h2,h3{margin:0 0 8px}
+    h1{font-size:24px}
+    h2{font-size:20px}
+    .page{display:none;padding:18px 0;border-bottom:1px solid var(--border)}
+    .page:last-of-type{border-bottom:0}
+    .muted{color:var(--muted)}
+    .grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(260px,1fr));gap:14px}
+    .card{border:1px solid var(--border);border-radius:10px;padding:12px;background:var(--card)}
+    .links{display:flex;gap:8px;flex-wrap:wrap;margin-top:8px}
+    .links a{border:1px solid var(--border);padding:6px 10px;text-decoration:none;color:var(--link);border-radius:6px;font-size:14px;background:#fff}
+    .video-container{max-width:700px;width:100%;margin:10px 0 20px}
+    .video-container video,.video-container iframe{width:100%;height:394px;display:block;border:1px solid var(--border);border-radius:8px}
+    img{max-width:100%;border:1px solid var(--border);border-radius:8px;margin-top:10px}
+    footer{border-top:1px solid var(--border);margin-top:24px;padding-top:16px;font-size:14px}
+    hr{border:none;border-top:1px solid var(--border);margin:16px 0}
+  </style>
 </head>
 <body>
-  <h1>🌟 Can Selçuk Ücel</h1>
-  <nav>
-    <a href="index.html">Home</a>
-    <a href="projects.html">Projects</a>
-    <a href="big-ideas.html">Big Ideas</a>
-    <a href="documentation.html">Documentation</a>
-    <a href="swift-code.html">Swift Code</a>
-  </nav>
+  <header>
+    <div><strong>Ege Mert OK</strong></div>
+    <nav aria-label="Primary">
+      <a href="#home" id="nav-home">Home</a>
+      <a href="#projects" id="nav-projects1">Projects</a>
+      <a href="#projects2" id="nav-projects2">Projects2</a>
+      <a href="#big-ideas" id="nav-big-ideas">Big Ideas</a>
+      <a href="#documentation" id="nav-documentation">Documentation</a>
+    </nav>
+  </header>
 
-  <section>
-    <h2>About Me</h2>
-    <p>My name is Can Selçuk Ücel. I am studying at Hisar School in Türkiye. I am 10th grade.</p>
-  </section>
+  <main>
 
-  <section>
-    <h2>Recently...</h2>
-    <p>→ Started building this site to share my ideas and projects with others.</p>
-  </section>
 
-  <section>
-   
-  </section>
+
+
+
+
+
+
+
+</main>
+
+ 
+
+
+ 
+  <footer>
+    <div class="links" aria-label="Profile Links">
+      <a href="https://github.com/egemertok/egemertok.github.io" target="_blank" rel="noopener">GitHub</a>
+      <a href="https://scratch.mit.edu/" target="_blank" rel="noopener">Scratch</a>
+    </div>
+  </footer>
+
+  <script>
+    // Simple hash router
+    const pages = Array.from(document.querySelectorAll('.page'));
+    const navLinks = {
+      home: document.getElementById('nav-home'),
+      projects: document.getElementById('nav-projects'),
+      'big-ideas': document.getElementById('nav-big-ideas'),
+      documentation: document.getElementById('nav-documentation')
+    };
+
+    function showPage(name){
+      pages.forEach(sec => sec.style.display = 'none');
+      Object.values(navLinks).forEach(a => a && a.removeAttribute('aria-current'));
+      const id = name || 'home';
+      const active = document.getElementById(id);
+      if(active){
+        active.style.display = 'block';
+        if(navLinks[id]) navLinks[id].setAttribute('aria-current','page');
+        document.title = active.getAttribute('data-title') || 'Ege Mert OK — Portfolio';
+      }else{
+        location.hash = '#home';
+      }
+    }
+    function onRouteChange(){
+      const hash = location.hash.replace('#','');
+      showPage(hash || 'home');
+    }
+    window.addEventListener('hashchange', onRouteChange);
+    window.addEventListener('DOMContentLoaded', onRouteChange);
+  </script>
 </body>
 </html>
+
+
+
