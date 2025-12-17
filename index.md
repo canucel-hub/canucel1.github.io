@@ -25,7 +25,7 @@ Scratch XOX Project
 
 Description: A XOX game that you can play on Scratch.
 
-Scratch Project: https://scratch.mit.edu/projects/1212297926
+Scratch Project: [Scratch Project](https://scratch.mit.edu/projects/1212297926)
 
 Video: Ekran Kaydı 2025-09-02 20.26.16.mp4
 
