@@ -73,3 +73,7 @@
 - *Simplest Tic-Tac-Toe Game (Literally). The game is meant to be played with a friend (you probably don't have one like me), with each click switching each box between X, O and blank.*
 
   <img src="Ekran Kaydı 2025-09-02 20.26.16 (2) (1) (1) (1) (1).mp4" width="650">
+
+ ### ***Figma - Design Daily Challenge!***
+
+- * A design tracking app. The app shows how many pages of books you read and other things that improve in life.*
