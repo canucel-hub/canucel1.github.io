@@ -77,3 +77,11 @@
  ### ***Figma - Design Daily Challenge!***
 
 - * A design tracking app. The app shows how many pages of books you read and other things that improve in life.*
+ 
+
+ ### ***Computin Bias Presentation***
+
+- *5 Slides, 3 Real life examples, 5 AP CSP Questions.*
+
+- <a href="https://docs.google.com/presentation/d/15Ir-mQqf_FjHAjWApNNmf_P948v2UGc7EIsljfmd8Nk/edit?usp=sharing 
+">Google</a>
