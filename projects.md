@@ -84,4 +84,4 @@
 - *5 Slides, 3 Real life examples, 5 AP CSP Questions.*
 
 - <a href="https://docs.google.com/presentation/d/15Ir-mQqf_FjHAjWApNNmf_P948v2UGc7EIsljfmd8Nk/edit?usp=sharing 
-">Google</a>
+">SLIDES</a>
