@@ -88,48 +88,48 @@
 
  ### ***List Training1***
 
-- <a href="[https://docs.google.com/presentation/d/15Ir-mQqf_FjHAjWApNNmf_P948v2UGc7EIsljfmd8Nk/edit?usp=sharing](https://docs.google.com/document/d/1Puuv9Pr6dyGo90-zCaczd6_wwf0E2CDo7cjj9a3nYaQ/edit?usp=sharing) 
+- <a href="https://docs.google.com/document/d/1Puuv9Pr6dyGo90-zCaczd6_wwf0E2CDo7cjj9a3nYaQ/edit?usp=sharing
 ">Code</a>
 
  ### ***List Training2***
 
-- <a href="[https://docs.google.com/presentation/d/15Ir-mQqf_FjHAjWApNNmf_P948v2UGc7EIsljfmd8Nk/edit?usp=sharing](https://docs.google.com/document/d/1Puuv9Pr6dyGo90-zCaczd6_wwf0E2CDo7cjj9a3nYaQ/edit?usp=sharing) 
+- <a href="https://docs.google.com/document/d/1Puuv9Pr6dyGo90-zCaczd6_wwf0E2CDo7cjj9a3nYaQ/edit?usp=sharing
 ">Code</a>
 
  ### ***List Training3***
 
-- <a href="[https://docs.google.com/presentation/d/15Ir-mQqf_FjHAjWApNNmf_P948v2UGc7EIsljfmd8Nk/edit?usp=sharing](https://docs.google.com/document/d/1Puuv9Pr6dyGo90-zCaczd6_wwf0E2CDo7cjj9a3nYaQ/edit?usp=sharing) 
+- <a href="https://docs.google.com/document/d/1Puuv9Pr6dyGo90-zCaczd6_wwf0E2CDo7cjj9a3nYaQ/edit?usp=sharing
 ">Code</a>
 
 
 ### ***Şan's Homework-1***
 
-- <a href="[[https://docs.google.com/presentation/d/15Ir-mQqf_FjHAjWApNNmf_P948v2UGc7EIsljfmd8Nk/edit?usp=sharing](https://docs.google.com/document/d/1Puuv9Pr6dyGo90-zCaczd6_wwf0E2CDo7cjj9a3nYaQ/edit?usp=sharing)](https://docs.google.com/document/d/1qTl448L7zBMaMEmp2JvcILn208THdaGtkJkXFnQNpQs/edit?usp=sharing) 
+- <a href="https://docs.google.com/document/d/1qTl448L7zBMaMEmp2JvcILn208THdaGtkJkXFnQNpQs/edit?usp=sharing
 ">Code</a>
 
 ### ***Şan's Homework-2***
 
-- <a href="[[https://docs.google.com/presentation/d/15Ir-mQqf_FjHAjWApNNmf_P948v2UGc7EIsljfmd8Nk/edit?usp=sharing](https://docs.google.com/document/d/1Puuv9Pr6dyGo90-zCaczd6_wwf0E2CDo7cjj9a3nYaQ/edit?usp=sharing)](https://docs.google.com/document/d/1qTl448L7zBMaMEmp2JvcILn208THdaGtkJkXFnQNpQs/edit?usp=sharing) 
+- <a href="https://docs.google.com/document/d/1qTl448L7zBMaMEmp2JvcILn208THdaGtkJkXFnQNpQs/edit?usp=sharing
 ">Code</a>
 
 ### ***Şan's Homework-3***
 
-- <a href="[[https://docs.google.com/presentation/d/15Ir-mQqf_FjHAjWApNNmf_P948v2UGc7EIsljfmd8Nk/edit?usp=sharing](https://docs.google.com/document/d/1Puuv9Pr6dyGo90-zCaczd6_wwf0E2CDo7cjj9a3nYaQ/edit?usp=sharing)](https://docs.google.com/document/d/1qTl448L7zBMaMEmp2JvcILn208THdaGtkJkXFnQNpQs/edit?usp=sharing) 
+- <a href="https://docs.google.com/document/d/1qTl448L7zBMaMEmp2JvcILn208THdaGtkJkXFnQNpQs/edit?usp=sharing
 ">Code</a>
 
 ### ***Şan's Homework-4***
 
-- <a href="[[https://docs.google.com/presentation/d/15Ir-mQqf_FjHAjWApNNmf_P948v2UGc7EIsljfmd8Nk/edit?usp=sharing](https://docs.google.com/document/d/1Puuv9Pr6dyGo90-zCaczd6_wwf0E2CDo7cjj9a3nYaQ/edit?usp=sharing)](https://docs.google.com/document/d/1qTl448L7zBMaMEmp2JvcILn208THdaGtkJkXFnQNpQs/edit?usp=sharing) 
+- <a href="[https://docs.google.com/document/d/1qTl448L7zBMaMEmp2JvcILn208THdaGtkJkXFnQNpQs/edit?usp=sharing
 ">Code</a>
 
 ### ***Şan's Homework-5***
 
-- <a href="[[https://docs.google.com/presentation/d/15Ir-mQqf_FjHAjWApNNmf_P948v2UGc7EIsljfmd8Nk/edit?usp=sharing](https://docs.google.com/document/d/1Puuv9Pr6dyGo90-zCaczd6_wwf0E2CDo7cjj9a3nYaQ/edit?usp=sharing)](https://docs.google.com/document/d/1qTl448L7zBMaMEmp2JvcILn208THdaGtkJkXFnQNpQs/edit?usp=sharing) 
+- <a href="https://docs.google.com/document/d/1qTl448L7zBMaMEmp2JvcILn208THdaGtkJkXFnQNpQs/edit?usp=sharing 
 ">Code</a>
 
 ### ***Şan's Homework-6***
 
-- <a href="[[https://docs.google.com/presentation/d/15Ir-mQqf_FjHAjWApNNmf_P948v2UGc7EIsljfmd8Nk/edit?usp=sharing](https://docs.google.com/document/d/1Puuv9Pr6dyGo90-zCaczd6_wwf0E2CDo7cjj9a3nYaQ/edit?usp=sharing)](https://docs.google.com/document/d/1qTl448L7zBMaMEmp2JvcILn208THdaGtkJkXFnQNpQs/edit?usp=sharing) 
+- <a href="https://docs.google.com/document/d/1qTl448L7zBMaMEmp2JvcILn208THdaGtkJkXFnQNpQs/edit?usp=sharing
 ">Code</a>
 
 ### ***Şan's Homework-7***
@@ -138,8 +138,7 @@
 
 ### ***Şan's Homework-8***
 
-- <a href="[[https://docs.google.com/presentation/d/15Ir-mQqf_FjHAjWApNNmf_P948v2UGc7EIsljfmd8Nk/edit?usp=sharing](https://docs.google.com/document/d/1Puuv9Pr6dyGo90-zCaczd6_wwf0E2CDo7cjj9a3nYaQ/edit?usp=sharing)](https://docs.google.com/document/d/1qTl448L7zBMaMEmp2JvcILn208THdaGtkJkXFnQNpQs/edit?usp=sharing) 
-">Code</a>
+- <a href="https://docs.google.com/document/d/1qTl448L7zBMaMEmp2JvcILn208THdaGtkJkXFnQNpQs/edit?usp=sharing">Code</a>
 
 ### ***AP CSP Potfolio***
 
