@@ -144,11 +144,11 @@
 
 - *Hoop Tap, a game that you win when you click at the screen when the slider is on the green bar.*
 
-<img src="Ekran Resmi 2025-10-01 23.40.26.png" width="650">
+<img src="Screenshot 2026-03-29 at 23.22.39.png" width="650">
 
-<img src="Ekran Resmi 2025-10-01 23.40.26.png" width="650">
+<img src="Screenshot 2026-03-29 at 23.22.49.png" width="650">
 
-<img src="Ekran Resmi 2025-10-01 23.40.26.png" width="650">
+<img src="Screenshot 2026-03-29 at 23.22.58.png" width="650">
 
 - <a href="https://docs.google.com/document/d/1CPmkzcySNAHfdmcQANP5aDExTgT2iGnVxC8cowP2Kag/edit?usp=sharing">Code</a>
 
