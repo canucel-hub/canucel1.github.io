@@ -134,8 +134,7 @@
 
 ### ***Şan's Homework-7***
 
-- <a href="[[https://docs.google.com/presentation/d/15Ir-mQqf_FjHAjWApNNmf_P948v2UGc7EIsljfmd8Nk/edit?usp=sharing](https://docs.google.com/document/d/1Puuv9Pr6dyGo90-zCaczd6_wwf0E2CDo7cjj9a3nYaQ/edit?usp=sharing)](https://docs.google.com/document/d/1qTl448L7zBMaMEmp2JvcILn208THdaGtkJkXFnQNpQs/edit?usp=sharing) 
-">Code</a>
+- <a href="https://docs.google.com/document/d/1qTl448L7zBMaMEmp2JvcILn208THdaGtkJkXFnQNpQs/edit?usp=sharing">Code</a>
 
 ### ***Şan's Homework-8***
 
